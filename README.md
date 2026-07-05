@@ -4,4 +4,4 @@
 - Макет собрал в Claude. 
 - У него же взял оформленную дизайн-систему (lib/style/*).
 
-![image.png](./image.png)
+<img src=".image.png" width="200">
